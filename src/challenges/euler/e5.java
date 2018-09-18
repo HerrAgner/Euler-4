@@ -19,7 +19,7 @@ public class e5 {
                 produkt = tal;
                 break;
             }
-            tal += 20;
+            tal += 2;
         }
         System.out.println(produkt);
 
